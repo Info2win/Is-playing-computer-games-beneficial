@@ -25,4 +25,6 @@ This report is written for educational purposes.
 - Writing the Conclusion
 - Writing the References
 
+# What was the conclusion of the report ?
 
+The report conclude that the advantages of playing computer games have bigger impacts than its disadvantages, so the advantages of computer games dominate its disadvantages.
